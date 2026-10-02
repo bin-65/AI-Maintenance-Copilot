@@ -1,0 +1,9 @@
+equipment_id,name,type,plant_area,manufacturer,model,commission_date,runtime_hours,status,criticality,last_maintenance,next_maintenance
+P-101,Cooling Water Pump,Centrifugal Pump,Utilities - Cooling Water,Demo Manufacturer,CW-150,2017-03-15,61250,Running,Medium,2026-07-12,2026-10-12
+P-102,Process Pump,Centrifugal Pump,Process Area,Demo Manufacturer,PX-200,2018-06-01,54780,Running,High,2026-05-20,2026-09-20
+M-201,Process Air Compressor,Screw Compressor,Compressor House,Demo Manufacturer,SC-75,2016-09-10,72140,Running,High,2026-06-02,2026-09-28
+F-301,Cooling Tower Fan,Axial Cooling Fan,Cooling Tower Area,Demo Manufacturer,AX-1200,2019-04-22,41800,Running,Medium,2026-08-05,2026-11-05
+GE-01,Gas Engine Generator,Gas Engine,Power House,Demo Manufacturer,GEN-1500,2015-11-30,88600,Running,Critical,2026-08-18,2026-10-18
+WTG-01,Wind Turbine Generator,Wind Turbine,Wind Farm - Row A,Demo Manufacturer,WT-2.0,2020-02-14,47300,Stopped,High,2026-04-10,2026-10-10
+CV-401,Raw Material Conveyor,Belt Conveyor,Material Handling,Demo Manufacturer,BC-800,2019-08-01,38900,Running,Medium,2026-07-25,2026-10-25
+AC-501,Instrument Air Compressor,Screw Compressor,Utilities - Instrument Air,Demo Manufacturer,SC-37,2018-01-20,59500,Standby,Medium,2026-06-30,2026-12-30

@@ -1,0 +1,25 @@
+part_number,part_name,category,compatible_equipment,stock,unit_cost,lead_time_days,criticality
+BRG-6208,6208 Deep Groove Ball Bearing,Bearing,"P-101,P-102",12,4500,3,Critical
+BRG-6310,6310 Deep Groove Ball Bearing,Bearing,"P-102,F-301",6,9800,5,Critical
+BRG-NU310,NU310 Cylindrical Roller Bearing,Bearing,P-102,2,18500,10,Critical
+SEAL-MS45,Mechanical Seal 45mm Cartridge,Seal,"P-101,P-102",3,68000,14,Critical
+CPL-EL110,Elastomeric Coupling Insert,Coupling,"P-101,P-102,F-301",8,3200,4,High
+OIL-ISO68,ISO VG 68 Bearing Oil (20 L),Lubricant,"P-101,P-102,F-301,CV-401",15,14500,2,Medium
+GRS-EP2,EP2 Lithium Grease (18 kg),Lubricant,"P-101,P-102,F-301,CV-401,WTG-01",10,16800,2,Medium
+FLT-AO-75,Air/Oil Separator Element,Filter,"M-201,AC-501",2,42000,12,High
+FLT-OF-75,Compressor Oil Filter,Filter,"M-201,AC-501",6,7800,5,High
+FLT-AF-75,Compressor Air Intake Filter,Filter,"M-201,AC-501",5,6500,5,Medium
+VLV-TH-75,Thermostatic Valve Element,Valve,M-201,1,23500,15,High
+OIL-CMP46,Synthetic Compressor Oil (20 L),Lubricant,"M-201,AC-501",4,38000,7,High
+CLR-KIT-75,Oil/After-cooler Cleaning Kit,Consumable,"M-201,AC-501",3,9500,3,Medium
+BLD-AX12,Axial Fan Blade (FRP),Blade,F-301,0,145000,30,High
+GBX-OIL220,ISO VG 220 Gear Oil (20 L),Lubricant,"F-301,WTG-01,CV-401",9,19500,3,Medium
+BAL-WT-KIT,Fan Balancing Weight Kit,Consumable,F-301,4,5200,4,Low
+BLT-HW-M20,Fan Hub Bolt Set M20 (Grade 8.8),Fastener,F-301,6,3800,3,Medium
+SPK-GE15,Spark Plug,Ignition,GE-01,24,6200,10,High
+FLT-GE-OIL,Engine Oil Filter,Filter,GE-01,10,8900,7,High
+SNS-PT100,PT100 Temperature Sensor,Instrumentation,ALL,7,7500,5,Medium
+SNS-VIB-ACC,Accelerometer Vibration Sensor,Instrumentation,ALL,3,28000,14,Medium
+IDL-CV800,Conveyor Return Idler,Idler,CV-401,14,6800,6,Medium
+BLT-CV800,Conveyor Belt Splice Kit,Belt,CV-401,2,35000,10,High
+WTG-PITCH-BAT,Pitch System Battery Pack,Electrical,WTG-01,1,210000,28,Critical

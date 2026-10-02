@@ -1,0 +1,20 @@
+# Secrets - never commit
+.env
+.streamlit/secrets.toml
+
+# Runtime database (recreated and re-seeded automatically)
+data/*.db
+data/*.db-journal
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
